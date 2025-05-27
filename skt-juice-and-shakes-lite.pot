@@ -1,0 +1,248 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: SKT Juice and Shakes Lite\n"
+"POT-Creation-Date: 2024-12-26 15:28+0530\n"
+"PO-Revision-Date: 2024-12-26 15:28+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: archive.php:28 front-page.php:37 front-page.php:67
+msgid "Back"
+msgstr ""
+
+#: archive.php:29 front-page.php:38 front-page.php:68
+msgid "Next"
+msgstr ""
+
+#: archive.php:30
+msgid "Posts navigation"
+msgstr ""
+
+#: content-single.php:19 page.php:23
+msgid "Pages:"
+msgstr ""
+
+#: content-single.php:23 page.php:27
+msgid "Page"
+msgstr ""
+
+#: footer.php:45
+msgid "Facebook"
+msgstr ""
+
+#: footer.php:48
+msgid "Twitter"
+msgstr ""
+
+#: footer.php:51
+msgid "Linkedin"
+msgstr ""
+
+#: footer.php:55
+msgid "Instagram"
+msgstr ""
+
+#: footer.php:110
+msgid "Theme By SKT Themes"
+msgstr ""
+
+#: functions.php:30
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:41
+msgid "Footer Column 1"
+msgstr ""
+
+#: functions.php:42 functions.php:51 functions.php:60 functions.php:69
+msgid "Appears on page footer"
+msgstr ""
+
+#: functions.php:50
+msgid "Footer Column 2"
+msgstr ""
+
+#: functions.php:59
+msgid "Footer Column 3"
+msgstr ""
+
+#: functions.php:68
+msgid "Footer Column 4"
+msgstr ""
+
+#: functions.php:132
+msgid "Thank you for installing SKT Juice and Shakes Lite!"
+msgstr ""
+
+#: functions.php:133
+msgid ""
+"SKT Juice and Shakes Lite comes with 150+ ready to use Elementor templates. "
+"Install the SKT Templates plugin to get started."
+msgstr ""
+
+#: header.php:24
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:68 header.php:69
+msgid "Search"
+msgstr ""
+
+#: header.php:74
+msgid "View your shopping cart"
+msgstr ""
+
+#: inc/about-themes.php:5
+msgid "About Theme"
+msgstr ""
+
+#: inc/about-themes.php:15
+msgid "Theme Information"
+msgstr ""
+
+#. Description of the plugin/theme
+#: inc/about-themes.php:17
+msgid "Description Here"
+msgstr ""
+
+#: inc/about-themes.php:18
+msgid "Free Vs Pro"
+msgstr ""
+
+#: inc/about-themes.php:23
+msgid "Live Demo"
+msgstr ""
+
+#: inc/about-themes.php:24
+msgid "Buy Pro"
+msgstr ""
+
+#: inc/about-themes.php:25
+msgid "Documentation"
+msgstr ""
+
+#. Author of the plugin/theme
+#: inc/about-themes.php:28
+msgid "SKT Themes"
+msgstr ""
+
+#: inc/customizer.php:73
+msgid "Color Scheme"
+msgstr ""
+
+#: inc/customizer.php:86
+msgid "Header Background Color"
+msgstr ""
+
+#: inc/customizer.php:99
+msgid "Copyright Text Color"
+msgstr ""
+
+#: inc/customizer.php:107
+msgid "Homepage Header Transparent"
+msgstr ""
+
+#: inc/customizer.php:117
+msgid "Uncheck To Enable Transparent Header."
+msgstr ""
+
+#: inc/customizer.php:124
+msgid "Inner Page Banner Settings"
+msgstr ""
+
+#: inc/customizer.php:135 inc/customizer.php:169
+msgid "Upload Default Banner Image"
+msgstr ""
+
+#: inc/customizer.php:150
+msgid ""
+"Uncheck To Show Inner Page Banner On All Inner Pages. For Display Different "
+"Banner Image On Each Page Set Page Featured Image. Set Image Size (1400 X "
+"450) For Better Resolution."
+msgstr ""
+
+#: inc/customizer.php:157
+msgid "Category / Archive And Single Post Banner Settings"
+msgstr ""
+
+#: inc/customizer.php:184
+msgid ""
+"Uncheck To Show Inner Post Banner On Category / Archive And Single Post. For "
+"Display Different Banner Image On Each Post Set Post Featured Image. Set "
+"Image Size (1400 X 450) For Better Resolution."
+msgstr ""
+
+#: inc/customizer.php:191
+msgid "Footer Info Box"
+msgstr ""
+
+#: inc/customizer.php:202
+msgid "Footer Logo"
+msgstr ""
+
+#: inc/customizer.php:218
+msgid "Footer Logo Link"
+msgstr ""
+
+#: inc/customizer.php:229
+msgid "Add Facebook Link"
+msgstr ""
+
+#: inc/customizer.php:239
+msgid "Add Twitter Link"
+msgstr ""
+
+#: inc/customizer.php:248
+msgid "Add Linkedin Link"
+msgstr ""
+
+#: inc/customizer.php:258
+msgid "Add Instagram Link"
+msgstr ""
+
+#: inc/customizer.php:270
+msgid "Uncheck To Show This Section"
+msgstr ""
+
+#: inc/customizer.php:276
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: inc/customizer.php:285
+msgid "Add Copyright Text Here"
+msgstr ""
+
+#: sidebar.php:12
+msgid "Categories"
+msgstr ""
+
+#: sidebar.php:20
+msgid "Meta"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "SKT Juice and Shakes Lite"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://www.sktthemes.org/shop/free-smoothie-wordpress-theme/"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.sktthemes.org"
+msgstr ""
